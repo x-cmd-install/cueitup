@@ -4,13 +4,25 @@
 
 Inspect messages in an AWS SQS queue in a simple and deliberate manner
 
-![cueitup](https://repo.x-cmd.io/cueitup.svg)
+![cueitup](https://repo.x-cmd.io/cueitup.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install cueitup
 ```
+
+## 代码洞察
+
+合计: **9,175** 行代码（覆盖前 5 种语言、共 **38** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| JavaScript | 5,480 | 209 | 44 | 2 |
+| Go | 2,186 | 17 | 330 | 25 |
+| Gleam | 824 | 0 | 47 | 7 |
+| Css | 574 | 166 | 147 | 2 |
+| Toml | 64 | 2 | 4 | 2 |
 
 ## 源代码
 
@@ -23,7 +35,6 @@ x install cueitup
 - **最新版本**: `v1.0.0` (2025-04-16)
 - **最近提交**: 2026-06-07
 - **Release 含资产**: 7 个
-- **发布时间**: 2025-04-16T08:22:00Z
 
 ## 流行度
 
@@ -38,20 +49,23 @@ x install cueitup
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 0 | 11 | 0 | 0 | 0 | 14 |
 | 360d | 2025-09-15 | 0 | 37 | 0 | 0 | 0 | 40 |
+| last720d | 2024-09-20 | 2 | 81 | 0 | 0 | 1 | 92 |
 
-## 代码规模
+## Release 资产
 
-合计: **9,175** 行代码（覆盖前 5 种语言、共 **38** 个文件）。
-
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| JavaScript | 5,480 | 209 | 44 | 2 |
-| Go | 2,186 | 17 | 330 | 25 |
-| Gleam | 824 | 0 | 47 | 7 |
-| Css | 574 | 166 | 147 | 2 |
-| Toml | 64 | 2 | 4 | 2 |
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cueitup_1.0.0_checksums.txt](https://github.com/dhth/cueitup/releases/download/v1.0.0/cueitup_1.0.0_checksums.txt) | 398 B | `other` |
+| [cueitup_1.0.0_checksums.txt.pem](https://github.com/dhth/cueitup/releases/download/v1.0.0/cueitup_1.0.0_checksums.txt.pem) | 3.0 KiB | `other` |
+| [cueitup_1.0.0_checksums.txt.sig](https://github.com/dhth/cueitup/releases/download/v1.0.0/cueitup_1.0.0_checksums.txt.sig) | 96 B | `other` |
+| [cueitup_1.0.0_darwin_amd64.tar.gz](https://github.com/dhth/cueitup/releases/download/v1.0.0/cueitup_1.0.0_darwin_amd64.tar.gz) | 4.3 MiB | `native/darwin/x64` |
+| [cueitup_1.0.0_darwin_arm64.tar.gz](https://github.com/dhth/cueitup/releases/download/v1.0.0/cueitup_1.0.0_darwin_arm64.tar.gz) | 4.1 MiB | `native/darwin/arm64` |
+| [cueitup_1.0.0_linux_amd64.tar.gz](https://github.com/dhth/cueitup/releases/download/v1.0.0/cueitup_1.0.0_linux_amd64.tar.gz) | 4.2 MiB | `native/linux/x64` |
+| [cueitup_1.0.0_linux_arm64.tar.gz](https://github.com/dhth/cueitup/releases/download/v1.0.0/cueitup_1.0.0_linux_arm64.tar.gz) | 3.9 MiB | `native/linux/arm64` |
 
 ## 改进这些数据
 
@@ -62,4 +76,4 @@ cueitup 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T06:26:38Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T23:44:55Z._
