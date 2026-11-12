@@ -33,7 +33,7 @@ Total: **9,175** lines of code across **38** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.0.0` (2025-04-16)
-- **Last commit**: 2026-10-23
+- **Last commit**: 2026-11-11
 - **Assets in release**: 7
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **9,175** lines of code across **38** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 6 · **Merged PRs**: 86 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 1 · **Commits**: 114
+- **Releases**: 6 · **Merged PRs**: 87 · **Open PRs**: 0 · **Closed issues**: 0 · **Open issues**: 1 · **Commits**: 115
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last60d | 2026-09-12 | 0 | 1 | 0 | 0 | 0 | 1 |
-| 90d | 2026-08-13 | 0 | 1 | 0 | 0 | 0 | 1 |
-| last180d | 2026-05-15 | 0 | 7 | 0 | 0 | 0 | 9 |
-| 360d | 2025-11-16 | 0 | 27 | 0 | 0 | 0 | 29 |
-| last720d | 2024-11-21 | 2 | 82 | 0 | 0 | 1 | 92 |
+| 30d | 2026-10-13 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last60d | 2026-09-13 | 0 | 2 | 0 | 0 | 0 | 2 |
+| 90d | 2026-08-14 | 0 | 2 | 0 | 0 | 0 | 2 |
+| last180d | 2026-05-16 | 0 | 8 | 0 | 0 | 0 | 10 |
+| 360d | 2025-11-17 | 0 | 28 | 0 | 0 | 0 | 30 |
+| last720d | 2024-11-22 | 2 | 83 | 0 | 0 | 1 | 93 |
 
 ## Release assets
 
@@ -76,4 +76,4 @@ Install metadata for cueitup lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261111.yml` · 2026-11-11T07:33:06Z._
+_Snapshot: `data/card/261112.yml` · 2026-11-12T09:10:12Z._
